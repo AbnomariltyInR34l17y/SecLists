@@ -370,6 +370,7 @@ UserRecoveryForm
 UserSettingsForm
 UserType
 Username
+username
 Users
 VPSSignature
 VerifyCode
